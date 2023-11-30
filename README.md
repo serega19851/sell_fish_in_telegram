@@ -75,9 +75,7 @@ pip install -r requirements.txt
 
 Также заранее создадим файл `.env` в директории проекта.
 
-![Иллюстрация к проекту](
-https://github.com/serega19851/sell_fish_in_telegram/raw/main/illustrations_redmi/Снимок экрана от 2023-11-30 10-17-09.png
-)
+![Иллюстрация к проекту](https://github.com/serega19851/sell_fish_in_telegram/raw/main/illustrations_redmi/Снимок экрана от 2023-11-30 10-17-09.png)
 
 <!--  -->
 <!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png) -->
