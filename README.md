@@ -68,6 +68,15 @@ yarn build
 
 ![Иллюстрация к проекту](https://github.com/serega19851/sell_fish_in_telegram/raw/main/illustrations_redmi/Снимок%20экрана%20от%202023-11-30%2012-55-25.png)
 
+Запишите в `.env` адреса url для доступа к созданным моделям и localhost:1337
+
+```
+CARTS_URL="http://localhost:1337/api/carts/"
+PRODUCTS_URL="http://localhost:1337/api/products/"
+URL='http://127.0.0.0:1337'
+
+```
+
 ## Создаём бота
 
 Напишите [отцу ботов](https://telegram.me/BotFather) для создания телеграм бота.
@@ -94,5 +103,5 @@ REDIS_HOST=
 Бот запускается командой
 
 ```
-python telbot.py
+python telegram_bot.py
 ```
